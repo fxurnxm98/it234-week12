@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
+  "shopName": "Homey Cup",
+  "owner": "Nattamon Promnetr",
+  "studentId": "1680707070",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -14,9 +14,9 @@
     },
     {
       "id": 2,
-      "name": "ชาไทย",
+      "name": "ชาเขียว",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍵",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "เค้กสตอเบอรี่",
+      "price": 45,
+      "emoji": "🍰",
+      "available": true,
+      "tags": ["เบเกอรี่", "ขายดี"]
     }
   ]
 }
